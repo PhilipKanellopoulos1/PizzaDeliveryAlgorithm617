@@ -4,4 +4,5 @@ Order a __________ pizza (pizza type)
 give credit carf info
 Wait
 Receive pizza
+    a. If pizza is not ______ (pizza type), then send back. Otherwise, continue.
 If we did not tip on the phone, then tip the driver
