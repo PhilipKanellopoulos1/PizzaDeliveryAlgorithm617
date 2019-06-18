@@ -1,6 +1,6 @@
 call domino's
-order pizza
+    a. If they dont answer, go back to 1. Otherwise, continue.
 give credit carf info
 Wait
 Receive pizza
-Tip Driver
+If we did not tip on the phone, then tip the driver
